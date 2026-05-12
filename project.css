@@ -1,0 +1,40 @@
+body {
+    font-family: "Times New Roman";
+    background-color: #f8f9fa;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+
+img {
+    margin-top: 15px;
+    border-radius: 8px;
+}
+
+
+.header {
+    background-color: #212b3f;
+    padding: 25px 0;
+}
+
+.nav-box {
+    background-color: #4271d7;
+    color: white;
+    text-decoration: none;
+    padding: 12px 22px;
+    margin-right: 7px;
+    border-radius: 9px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.nav-box:hover {
+    background-color: #2449ad;
+    color: white;
+}
+
